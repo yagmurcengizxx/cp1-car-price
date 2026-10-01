@@ -1,0 +1,10 @@
+# Sanal ortam (herkes kendi bilgisayarına kurar)
+.venv/
+
+# Veri seti (Kaggle'dan indirilir, README'ye bak)
+data/*.csv
+
+# Editör ve Python'un geçici dosyaları
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
