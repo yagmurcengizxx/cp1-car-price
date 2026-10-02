@@ -9,8 +9,8 @@ Bu proje, Andrew Ng'nin *Machine Learning Specialization* kursunun 1. kurs 2. ha
 - [x] Veriyi yükleme, temizleme ve feature engineering (`age`, `engine_cc`, `owner_num`, `power_bhp`)
 - [x] Her feature'ın fiyatla ilişkisini scatter plot ile inceleme
 - [x] `compute_cost` fonksiyonu
-- [ ] `compute_gradient` ve `gradient_descent`
-- [ ] Feature scaling deneyi (z-score normalization)
+- [x] `compute_gradient` ve `gradient_descent`
+- [x] Feature scaling deneyi: scaling olmadan cost patlıyor (NaN), z-score normalization ile model öğreniyor
 - [ ] Farklı learning rate'lerin karşılaştırılması
 - [ ] scikit-learn ile karşılaştırma
 
